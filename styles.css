@@ -1,7 +1,56 @@
 body {
-    background-color: blue;
+    background-color: #1a407c;
 }
 
 img {
-    border: 2px solid black;
+    border: 3px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.k { 
+    color: #23e065;
+    text-decoration: underline;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    color: #e08e28;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 850px;
+}
+
+.g {
+    color: #29aa52;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+header {
+    border: 5px solid black;
+    background-image: url("images/costa-rica.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    background-color: black;
+    height: 300px;
+    
+}
+
+#big {
+    font-size: 100px;
+    text-decoration: none;
+    margin-top: 0px;
 }
